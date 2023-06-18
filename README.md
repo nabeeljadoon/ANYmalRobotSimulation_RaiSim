@@ -1,4 +1,4 @@
-# ANYmalRobotSimulation_RaiSim - Nabeel 123321 DRL Project
+# ANYmalRobotSimulation_RaiSim
 
 This is the deep reinforcement learning implementation on ANYmal Robot
 
