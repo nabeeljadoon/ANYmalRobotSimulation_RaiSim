@@ -1,5 +1,8 @@
 # ANYmalRobotSimulation_RaiSim
 
+![image](https://github.com/user-attachments/assets/17fe6a3a-57f2-4339-b232-c9d749ca4854)
+
+
 This is the deep reinforcement learning implementation on ANYmal Robot
 
 To Train the Policy Runner.py is used.
